@@ -8,4 +8,4 @@ All codes were done in Python using Tensorflow library and the Keras API. A case
 
 Basic code structure is done following the beautiful article https://blog.codecentric.de/en/2019/03/convolutional-neural-networks-damage-detection/
 
-#cwru #mfpt #bearingfault #keras #tensorflow #deeplearning #cnn
+#cwru #mfpt #bearingfault #keras #tensorflow #deeplearning #cnn #transferlearning
